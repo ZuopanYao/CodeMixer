@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>CodeMixer</title>
+<item>
+<title>1.2.6</title>
+<description><![CDATA[
+      <h4>新增功能</h4>
+      <ul> <li>在线更新</li> </ul>
+]]>
+</description>
+<pubDate>2019-04-08 周一 13:22:05 </pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.6.zip"
+    sparkle:version="190408"
+    sparkle:dsaSignature="MEUCIQDVCUj3eBmNPgZNhucicOAIGW3YiE6MeXNP1VTdH4SXaQIgfxVf2Xj07QFy0keIQH2AeySkXCE7KP8bINFt0OVwBlo="
+    sparkle:shortVersionString="1.2.6"
+    length="7752404"
+    type="application/octet-stream"/>
+</item>
+
+</channel></rss>
