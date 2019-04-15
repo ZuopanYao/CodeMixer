@@ -13,10 +13,9 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.8.zip"
     sparkle:version="190415"
-    sparkle:dsaSignature="MEYCIQCTsjDimy6SvF9xlFJqKzSl7jLkiB3ZfW8mRRPHzjD2KQIhALBLf69QMF4r
-    UzuPT+SpxosxsfkNW3kmH24hSVi7OPAl"
+    sparkle:dsaSignature="MEUCIQDhKwo3f9EoGICCZOJU7ftj1k7N+u5V+sOeZLscTX2dYwIgG6DL3D3hXkAyDOEgNF0kQ90ed9YZBZ/L1I93TyrAJQw="
     sparkle:shortVersionString="1.2.8"
-    length="8914936"
+    length="8915000"
     type="application/octet-stream"/>
 </item>
 
