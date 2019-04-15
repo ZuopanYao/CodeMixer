@@ -2,19 +2,20 @@
 <channel>
 <title>CodeMixer</title>
 <item>
-<title>1.2.7</title>
+<title>1.2.8</title>
 <description><![CDATA[
-      <h4>新增功能</h4>
-      <ul> <li>在线更新</li> </ul>
+    <h2>2019-04-15</h2>
+    <h4>调整价格</h4>
+    <ul> <li>1、优化套餐价格</li> </ul>
 ]]>
 </description>
-<pubDate>2019-04-08 周一 13:22:05 </pubDate>
+<pubDate>2019-04-15 14:00:05 </pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.7.zip"
-    sparkle:version="190408"
-    sparkle:dsaSignature="MEQCIGsYzpXDfb4XO1hx/9Xz5CUp54GkpZdXMvhQWG3MgGg4AiA8PM0/IFOve25d8QAyfEOz7craaFpKbY1ixFXiBfqKCQ=="
-    sparkle:shortVersionString="1.2.7"
-    length="8912236"
+<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.8.zip"
+    sparkle:version="190415"
+    sparkle:dsaSignature="MEUCIQC40jiK+o/qZEayYrrc+IxHQ8ezX51zaLOBW4M4qZZnQQIgElFxg5Dz/PRJ1plbffOHhnv04qAJP0XpcMAA849HVEg="
+    sparkle:shortVersionString="1.2.8"
+    length="8915027"
     type="application/octet-stream"/>
 </item>
 
