@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>Sparkle Test App Changelog</title>
+        <title>CodeMixer</title>
         <link>https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/codemixer_appcast.xml</link>
-        <description>Most recent changes with links to updates.</description>
-        <language>en</language>
+        <language>zh_cn</language>
         <item>
             <title>Version 1.2.9</title>
             <description>
                 <![CDATA[
+                    <h3>2019-04-17</h3>
+
                     <ul>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                    <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li>
-                    <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
-                    <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li>
+                    <li>1、修改类名不再允许修改文件名，如要修改文件名请使用[ 文件名 ]功能</li>
+                    <li>2、在主页新增[ 文件名 ]功能</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.9.zip" sparkle:version="190417" length="8936777" type="application/octet-stream" sparkle:dsaSignature="MEUCIQDtXaqjfS4OFWPnTsazyfGimxoA9qc4S3uaVt3yrYtC6gIgRploUH+kN80l31cpHs9sylckgeq1++wFTvdCHepWfgw=" />
+            <pubDate>周三, 17 4月 2019 16:00:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.9.zip" sparkle:version="190417" sparkle:shortVersionString="1.2.9" length="8936777" type="application/octet-stream" sparkle:dsaSignature="MEUCIQDtXaqjfS4OFWPnTsazyfGimxoA9qc4S3uaVt3yrYtC6gIgRploUH+kN80l31cpHs9sylckgeq1++wFTvdCHepWfgw=" />
         </item>
     </channel>
 </rss>
