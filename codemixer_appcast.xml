@@ -2,20 +2,23 @@
 <channel>
 <title>CodeMixer</title>
 <item>
-<title>1.2.8</title>
+<title>1.2.9</title>
 <description><![CDATA[
-    <h2>2019-04-15</h2>
-    <h4>调整价格</h4>
-    <ul> <li>1、优化套餐价格</li> </ul>
+    <h2>2019-04-17</h2>
+    <h4>更新日记</h4>
+    <ul>
+    <li>1、修改类名不再允许修改文件名，如要修改文件名请使用[ 文件名 ]功能</li>
+    <li>2、在主页新增[ 文件名 ]功能</li>
+    </ul>
 ]]>
 </description>
-<pubDate>2019-04-15 14:00:05 </pubDate>
+<pubDate>2019-04-17 16:00:05 </pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.8.zip"
-    sparkle:version="190415"
-    sparkle:dsaSignature="MEUCIQDSSwzpe0sFv1uf5x2BhDrH0idr8W7zs6NNpBr5mUCjjQIgSuKvuopiHu06Cw+DCwNJ91FE9IM+STv+Tn708VwanAs="
-    sparkle:shortVersionString="1.2.8"
-    length="8914975"
+<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.9.zip"
+    sparkle:version="190417"
+    sparkle:dsaSignature="MEUCIQDtXaqjfS4OFWPnTsazyfGimxoA9qc4S3uaVt3yrYtC6gIgRploUH+kN80l31cpHs9sylckgeq1++wFTvdCHepWfgw="
+    sparkle:shortVersionString="1.2.9"
+    length="8936777"
     type="application/octet-stream"/>
 </item>
 
