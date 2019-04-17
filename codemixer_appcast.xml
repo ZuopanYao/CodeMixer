@@ -2,8 +2,6 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>CodeMixer</title>
-        <link>https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/codemixer_appcast.xml</link>
-        <language>zh_cn</language>
         <item>
             <title>Version 1.2.9</title>
             <description>
@@ -17,7 +15,12 @@
                 ]]>
             </description>
             <pubDate>周三, 17 4月 2019 16:00:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.9.zip" sparkle:version="190417" sparkle:shortVersionString="1.2.9" length="8936777" type="application/octet-stream" sparkle:dsaSignature="MEUCIQDtXaqjfS4OFWPnTsazyfGimxoA9qc4S3uaVt3yrYtC6gIgRploUH+kN80l31cpHs9sylckgeq1++wFTvdCHepWfgw=" />
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.9.zip"
+            length="8936777"
+            sparkle:version="190417"
+            sparkle:shortVersionString="1.2.9"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEUCIQDtXaqjfS4OFWPnTsazyfGimxoA9qc4S3uaVt3yrYtC6gIgRploUH+kN80l31cpHs9sylckgeq1++wFTvdCHepWfgw=" />
         </item>
     </channel>
 </rss>
