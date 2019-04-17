@@ -12,14 +12,10 @@
     </ul>
 ]]>
 </description>
-<pubDate>2019-04-17 16:00:05 </pubDate>
+<pubDate>周三, 17 4月 2019 16:00:17 +0800</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.9.zip"
-    sparkle:version="190417"
-    sparkle:dsaSignature="MEUCIQDtXaqjfS4OFWPnTsazyfGimxoA9qc4S3uaVt3yrYtC6gIgRploUH+kN80l31cpHs9sylckgeq1++wFTvdCHepWfgw="
-    sparkle:shortVersionString="1.2.9"
-    length="8936777"
-    type="application/octet-stream"/>
+<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.2.9.zip" sparkle:dsaSignature="MEUCIQDtXaqjfS4OFWPnTsazyfGimxoA9qc4S3uaVt3yrYtC6gIgRploUH+kN80l31cpHs9sylckgeq1++wFTvdCHepWfgw=" sparkle:version="190417" sparkle:shortVersionString="1.2.9" length="8936777" type="application/octet-stream"/>
 </item>
-
 </channel></rss>
+
+
