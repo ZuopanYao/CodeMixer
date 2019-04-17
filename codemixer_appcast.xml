@@ -3,7 +3,7 @@
     <channel>
         <title>CodeMixer</title>
         <link>https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/codemixer_appcast.xml</link>
-        <language>zh_cn</language>
+        <language>zh_CN</language>
         <item>
             <title>Version 1.2.9</title>
             <description>
