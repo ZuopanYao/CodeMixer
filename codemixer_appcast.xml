@@ -3,24 +3,23 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 1.3.0</title>
+            <title>Version 1.3.1</title>
             <description>
                 <![CDATA[
-                    <h3>2019-04-18</h3>
+                    <h3>2019-04-22</h3>
 
                     <ul>
-                    <li>1、增加权限转换功能，可以转换到Pro版本</li>
-                    <li>2、在线更新界面支持中文</li>
+                    <li>1、增加冻结与解冻功能<br>冻结功能: 冻结成功后，设备无法使用CodeMixerPro, 授权时间停止计算<br>解冻功能: 解冻成功后，设备恢复使用CodeMixerPro, 授权时间恢复计算</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周四, 18 4月 2019 14:10:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.3.0.zip"
-            length="8780609"
-            sparkle:version="190418"
-            sparkle:shortVersionString="1.3.0"
+            <pubDate>周一, 22 4月 2019 17:50:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.3.1.zip"
+            length="9425550"
+            sparkle:version="190422"
+            sparkle:shortVersionString="1.3.1"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIDFDWSnP7Um7tJ4/YjH/j1ptmVENXBEWexqC3YypeZgXAiEA1KtMAQMAVv47Om8Nw/ajapOBldhVb3AJMEVkWTshpf4=" />
+            sparkle:dsaSignature="MEQCICveSJt1eXBECXwRlrD7hgzcWNSG4Dq6+eeHGu7C43GBAiAqwvHTaHIDyFORF+gB02Sfs4BSCaR84FuEwcyEhyfU4A==" />
         </item>
     </channel>
 </rss>
