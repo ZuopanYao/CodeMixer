@@ -3,33 +3,27 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 1.4.0</title>
+            <title>Version 2.0.0</title>
             <description>
                 <![CDATA[
-                    <h3>2019-04-24</h3>
+                    <h3>2019-05-13</h3>
 
                     <ul>
-                    <li>1、新增云端词库功能，可将自己词库保存到云端，每个人可建多个词库</li>
-                    <li>2、通过词库口令，可将词库分享给其他人</li>
-                    <li>3、不再提供默认词库</li>
+                    <li>1、云端词库最大单词数量由1000改为2000</li>
+                    <li>2、合并Pro版本，Pro不再单独开发，权限会区分</li>
+                    <li>3、CodeMixer之前的版本不再维护，CodeMixerPro所有版本也不再维护，以后所有功能都在CodeMixer V2.0.0上迭代</li>
+                    <li>4、减少安装包体积</li>
                     </ul>
                     
-                    <h4>更新注意事项</h4>
-                    
-                    <ul>
-                    <li>更新此版本之前请备份好之前的词库，更新后之前的词库将被清掉</li>
-                    <li>更新此版本之前请备份好之前的词库，更新后之前的词库将被清掉</li>
-                    <li>更新此版本之前请备份好之前的词库，更新后之前的词库将被清掉</li>
-                    </ul>
                 ]]>
             </description>
-            <pubDate>周三, 24 4月 2019 14:20:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V1.4.0.zip"
-            length="9456840"
-            sparkle:version="190424"
-            sparkle:shortVersionString="1.4.0"
+            <pubDate>周一, 13 5月 2019 14:00:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V2.0.0.zip"
+            length="6990880"
+            sparkle:version="190513"
+            sparkle:shortVersionString="2.0.0"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCICYl0yxC3cleYdJ0VlAMWbqKXt2wdwRewglBI5rigBlOAiEA0dH9DFDmNMvtvsv3Gop+BbqSy/0eb9T3O75RZ+Nm+jw=" />
+            sparkle:dsaSignature="MEUCIQCSWTf/Cml4HIMk+oDIEwZ08os9nu1Ez3GRR0b9Go3MDAIgHSKDB7D+XUa62KNcH+8HqG9CiswHAu2HPPt4BoFMEPg=" />
         </item>
     </channel>
 </rss>
