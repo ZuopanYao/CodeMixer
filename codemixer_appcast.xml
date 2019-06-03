@@ -3,25 +3,25 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 2.0.1</title>
+            <title>Version 2.0.2</title>
             <description>
                 <![CDATA[
-                    <h3>2019-05-31</h3>
+                    <h3>2019-06-03</h3>
 
                     <ul>
-                    <li>1、增加权限管理功能</li>
+                    <li>1、提示优化</li>
                     
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周五, 31 5月 2019 12:00:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V2.0.1.zip"
-            length="7019136"
-            sparkle:version="190531"
-            sparkle:shortVersionString="2.0.1"
+            <pubDate>周一, 03 6月 2019 11:20:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V2.0.2.zip"
+            length="7021412"
+            sparkle:version="190603"
+            sparkle:shortVersionString="2.0.2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCID0psSoEYowcgaza/90PsgpfyqvlBJWG7ih/hFMC2Gx7AiEAsY+Xy/yp7hR6L6yowNJX9uNN4HEKWd7nEOhNl3287C4=" />
+            sparkle:dsaSignature="MEUCIQCT2WPmozrkMuDFdfHvpQOX4anq8OBpuu/qo4b3KzCX7gIgDmCrWH8VpdOPFVzN3cOKAwuhOJFTkLKKZEMqg1q792Q=" />
         </item>
     </channel>
 </rss>
