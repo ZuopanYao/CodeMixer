@@ -3,25 +3,25 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 2.0.2</title>
+            <title>Version 2.0.3</title>
             <description>
                 <![CDATA[
-                    <h3>2019-06-03</h3>
+                    <h3>2019-06-15</h3>
 
                     <ul>
-                    <li>1、提示优化</li>
+                    <li>1、支持离线使用</li>
                     
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周一, 03 6月 2019 11:20:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V2.0.2.zip"
-            length="7021412"
-            sparkle:version="190603"
-            sparkle:shortVersionString="2.0.2"
+            <pubDate>周六, 15 6月 2019 18:40:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V2.0.3.zip"
+            length="7020433"
+            sparkle:version="190615"
+            sparkle:shortVersionString="2.0.3"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQCT2WPmozrkMuDFdfHvpQOX4anq8OBpuu/qo4b3KzCX7gIgDmCrWH8VpdOPFVzN3cOKAwuhOJFTkLKKZEMqg1q792Q=" />
+            sparkle:dsaSignature="MEQCIHMGzTmdNxQ0cu0s401PKAE30sR2/9vQMb7I+0KN/v19AiBPubO+KzBYIfjdfCI4yV/50YVrwco7rgqgl57HGWJwbg==" />
         </item>
     </channel>
 </rss>
