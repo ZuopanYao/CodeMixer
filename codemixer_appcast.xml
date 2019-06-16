@@ -3,25 +3,26 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 2.0.3</title>
+            <title>Version 2.0.4</title>
             <description>
                 <![CDATA[
-                    <h3>2019-06-15</h3>
+                    <h3>2019-06-16</h3>
 
                     <ul>
                     <li>1、支持离线使用</li>
-                    
+                    <li>2、修复部分MacBook上无法注册信息问题</li>
+
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周六, 15 6月 2019 18:40:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V2.0.3.zip"
-            length="7020433"
-            sparkle:version="190615"
-            sparkle:shortVersionString="2.0.3"
+            <pubDate>周日, 16 6月 2019 10:14:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V2.0.4.zip"
+            length="7022308"
+            sparkle:version="190616"
+            sparkle:shortVersionString="2.0.4"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIHMGzTmdNxQ0cu0s401PKAE30sR2/9vQMb7I+0KN/v19AiBPubO+KzBYIfjdfCI4yV/50YVrwco7rgqgl57HGWJwbg==" />
+            sparkle:dsaSignature="MEUCIFy91J2xIkflzCO0bghyqn9leP7a0d668gneGoz3KKFGAiEAnnd1F9HR4lV3qeIa4MPx2oxqx6u56GbFYhhKoY41uso=" />
         </item>
     </channel>
 </rss>
