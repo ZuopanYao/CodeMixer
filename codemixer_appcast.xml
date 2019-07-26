@@ -3,26 +3,28 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 2.0.4</title>
+            <title>Version 3.0.0.Beta4</title>
             <description>
                 <![CDATA[
-                    <h3>2019-06-16</h3>
+                    <h3>2019-07-26</h3>
 
                     <ul>
-                    <li>1、支持离线使用</li>
-                    <li>2、修复部分MacBook上无法注册信息问题</li>
-
+                    <li>1、全新UI，更加方便使用，所有功能一键直达</li>
+                    <li>2、基于CM文件(.cm)更加强大的代码合成引擎</li>
+                    <li>3、类型可扩展，支持编辑、删除、增加</li>
+                    <li>4、支持枚举，结构体</li>
+                    <li>5、Swift方法体代码合成优化，更加真人化</li>
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周日, 16 6月 2019 10:14:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V2.0.4.zip"
-            length="7022308"
-            sparkle:version="190616"
-            sparkle:shortVersionString="2.0.4"
+            <pubDate>周五, 26 7月 2019 10:14:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.Beta4.zip"
+            length="7126454"
+            sparkle:version="190726"
+            sparkle:shortVersionString="3.0.0.Beta4"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIFy91J2xIkflzCO0bghyqn9leP7a0d668gneGoz3KKFGAiEAnnd1F9HR4lV3qeIa4MPx2oxqx6u56GbFYhhKoY41uso=" />
+            sparkle:dsaSignature="MEYCIQDsMgQhtSqxizkU6rMxiI/B2H6asQzOx1//IEP75lltMgIhAOWMmOBE5vXN0ac5N7M1pHR6dxcnOSwnm4YcgDwE23+a" />
         </item>
     </channel>
 </rss>
