@@ -3,26 +3,25 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 3.0.0.Beta6</title>
+            <title>Version 3.0.0.Beta7</title>
             <description>
                 <![CDATA[
-                    <h3>2019-07-27</h3>
+                    <h3>2019-07-29</h3>
 
                     <ul>
-                    <li>1、支持CM文件在线更新</li>
-                    <li>2、一些界面优化</li>
-                    <li>3、已知Bug修复</li>
+                    <li>1、修复部分设备侧栏显示异常问题</li>
+                    <li>2、对Dark暗黑模式支持</li>
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周六, 27 7月 2019 17:38:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.Beta6.zip"
-            length="7109497"
-            sparkle:version="190727"
-            sparkle:shortVersionString="3.0.0.Beta6"
+            <pubDate>周一, 29 7月 2019 11:16:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.Beta7.zip"
+            length="7130151"
+            sparkle:version="190729"
+            sparkle:shortVersionString="3.0.0.Beta7"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIEXQU+aPrXjfXV9AOMBAtJGL1Iv1nmKXtO//sSQQg3iMAiA0CWgayLrGi26rr0vZsOSEl6WwbdEYrMmPM6a7YMeOtA==" />
+            sparkle:dsaSignature="MEUCIQDUjglw2BcOuZYij3UQLAIUl/ldeHXM+MzDXhBxbGfl+QIgClkLIqbOnM/p9CBUaipgtDiG2Wr4XHvFeetO05Fp+jU=" />
         </item>
     </channel>
 </rss>
