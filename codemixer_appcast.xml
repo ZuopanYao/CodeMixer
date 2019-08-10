@@ -3,7 +3,7 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 3.0.0.RC</title>
+            <title>Version 3.0.0.RC1</title>
             <description>
                 <![CDATA[
                     <h3>2019-08-10</h3>
@@ -15,13 +15,13 @@
                     
                 ]]>
             </description>
-            <pubDate>周六, 10 8月 2019 20:00:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.RC.zip"
-            length="7137469"
-            sparkle:version="190811"
-            sparkle:shortVersionString="3.0.0.RC"
+            <pubDate>周六, 10 8月 2019 21:10:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.RC1.zip"
+            length="7137608"
+            sparkle:version="190812"
+            sparkle:shortVersionString="3.0.0.RC1"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIA2is+9yPN7qYuYDrnQD5mjQ94ACYD5JiWQYWNKmisHaAiBRLbLJgB+xOFUCNsURElmWWu0DQ9oK635iT/4qiKv1NA==" />
+            sparkle:dsaSignature="MEQCIFlafnFigXXSSoQ+ENkhDTIiG7eENLbq/pJsPREHFvF0AiBg9kOWnQ+j0atl8IRGCCoXWmjZh35k+KQX/oVsoudm+w==" />
         </item>
     </channel>
 </rss>
