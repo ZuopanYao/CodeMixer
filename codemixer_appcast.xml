@@ -3,24 +3,24 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 3.0.0.Beta8</title>
+            <title>Version 3.0.0.Beta9</title>
             <description>
                 <![CDATA[
-                    <h3>2019-07-30</h3>
+                    <h3>2019-08-10</h3>
 
                     <ul>
-                    <li>1、修复CM文件(Swift)解析可能出现异常问题</li>
+                    <li>1、购买优化</li>
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周二, 30 7月 2019 12:36:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.Beta8.zip"
-            length="7120070"
-            sparkle:version="190730"
-            sparkle:shortVersionString="3.0.0.Beta8"
+            <pubDate>周六, 10 8月 2019 18:36:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.Beta9.zip"
+            length="7137147"
+            sparkle:version="190810"
+            sparkle:shortVersionString="3.0.0.Beta9"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIC+y3WtGLbkCAb99RqisgMOEEk+IH0VWtqn5N/k9uavJAiAmInyaRDUexl7FebytIFuegB1c5+VmbN+/vjFtB4LmEA==" />
+            sparkle:dsaSignature="MEQCIBVPOv0gM2w/PcSwYgvJ8d+obrS5yWD6KnZL/s//9j8sAiBabLydnjzmHwYsva7VbRWrWS+HVScA1rvqtNdbkAnQ/Q==" />
         </item>
     </channel>
 </rss>
