@@ -3,25 +3,25 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 3.0.0.RC1</title>
+            <title>Version 3.0.0</title>
             <description>
                 <![CDATA[
-                    <h3>2019-08-10</h3>
+                    <h3>2019-08-12</h3>
 
                     <ul>
-                    <li>1、购买优化</li>
-                    <li>2、优化公告内部链接</li>
+                    <li>1、优化网络连接，修复版本切换频繁请求网络问题，甚至崩溃问题</li>
+                    <li>2、修复服务器数据异常问题</li>
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周六, 10 8月 2019 21:10:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.RC1.zip"
-            length="7137608"
-            sparkle:version="190812"
-            sparkle:shortVersionString="3.0.0.RC1"
+            <pubDate>周一, 12 8月 2019 18:05:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.0.zip"
+            length="7141046"
+            sparkle:version="190813"
+            sparkle:shortVersionString="3.0.0"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIFlafnFigXXSSoQ+ENkhDTIiG7eENLbq/pJsPREHFvF0AiBg9kOWnQ+j0atl8IRGCCoXWmjZh35k+KQX/oVsoudm+w==" />
+            sparkle:dsaSignature="MEUCIEqklzeeSPfrTdFBVy8BWDc5UvZbAvEOxo2mhAr44Xu/AiEApYrQcl32ryF9IsdMfO9swT8+Y0ZhuU0DI5aTumry6uM=" />
         </item>
     </channel>
 </rss>
