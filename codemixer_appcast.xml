@@ -3,28 +3,26 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 3.0.2</title>
+            <title>Version 3.1.0</title>
             <description>
                 <![CDATA[
-                    <h3>2019-08-16</h3>
-
+                    <h3>2019-08-30</h3>
+                    
                     <ul>
-                    <li>1、优化申请试用功能</li>
-                    <li>2、代码生成界面、图片处理界面、类名修改界面、文件名修改界面重新设计</li>
-                    <li>3、类名修改功能优化: 文件新名称从单词库中随机抽取，不再是简单加前缀</li>
-                    <li>4、文件名修改功能优化: 文件新名称从单词库中随机抽取，不再是简单加前缀, 仅Swift文件</li>
-
+                    <li>1、服务器已迁移至内地, 更新此版本后才可正常使用，之前版本无法使用</li>
+                    <li>2、类名/文件名修改功能优化</li>
+                    
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周五, 16 8月 2019 17:10:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerApp/git/raw/master/CodeMixer_V3.0.2.zip"
-            length="7105879"
-            sparkle:version="190816"
-            sparkle:shortVersionString="3.0.2"
+            <pubDate>周五, 30 8月 2019 00:00:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/CodeMixer/CodeMixer_V3.1.0.zip"
+            length="7107274"
+            sparkle:version="190829"
+            sparkle:shortVersionString="3.1.0"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIBUzWhH8WSR1qOAbTWoB9YfnMHX1KWI15Ey6WJkflZDGAiEA4n4P6rYRb/zurvbtEjLaAy4BGvvnhGmIMry1x0OQJuc=" />
+            sparkle:dsaSignature="MEQCIFp0D+d0WJdzvramqLW4xCRLqLu3IIUeahx5yXQtNaqIAiBcVUTybaDtvyVLb2deEQWCEs8eZwVDTGj1BOQ6xuVTTA==" />
         </item>
     </channel>
 </rss>
