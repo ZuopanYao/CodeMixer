@@ -1,6 +1,8 @@
 # CodeMixer
 在H5游戏项目中需要添加垃圾代码作混淆，提高过审机率。手动添加太费时费力，在网上并没有找到合适的比较好的工具，就自己动手写了一个垃圾代码添加工具，命名为ChaosTool，CodeMixer是ChaosTool增强版
 
+## [ [官网](https://www.me88.top/index.php/158.html) ]
+
 ## CodeMixer安装环境
 - macOS 10.12+ (不支持Windows)
 
