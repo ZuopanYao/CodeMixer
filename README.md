@@ -1,3 +1,5 @@
+# 目前仅支持 CC 系列的工具，旧版不再支持，如出现不可用，请前往 [https://app.yaozuopan.top](https://app.yaozuopan.top) 下载最新版
+
 # CodeMixer
 在H5游戏项目中需要添加垃圾代码作混淆，提高过审机率。手动添加太费时费力，在网上并没有找到合适的比较好的工具，就自己动手写了一个垃圾代码添加工具，命名为ChaosTool，CodeMixer是ChaosTool增强版
 
